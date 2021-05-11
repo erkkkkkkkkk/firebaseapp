@@ -1,0 +1,2 @@
+# firebaseapp
+hosting
